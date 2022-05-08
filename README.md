@@ -10,6 +10,8 @@ Tableau Public workbook includes:
   <li>A dynamic map that shows how each station's popularity changes by day</li>
   <li>1 Story that brings together the visualizations, maps and dashboards</li>
   </ul>
+ <img src="https://github.com/DominikaRzez/CitiBike_Analysis/blob/main/images/gender_comparison.png?raw=true">
+ <img src="https://github.com/DominikaRzez/CitiBike_Analysis/blob/main/images/story.png?raw=true">
   
   A text or markdown file contains the analysis on the uncovered phenomenons.
   
